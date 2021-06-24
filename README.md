@@ -1,5 +1,5 @@
 # QuizApp
-A Quiz App I developed for Android with Kotlin. [Click here for the Youtube video](https://www.youtube.com/watch?v=47EqY39goHs&feature=youtu.be)
+A Quiz App developed with Kotlin. [Click here for the Youtube video](https://www.youtube.com/watch?v=47EqY39goHs&feature=youtu.be)
 
 ## **Screenshots from QuizApp** 
 <p align="center">
